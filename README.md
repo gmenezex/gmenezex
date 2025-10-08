@@ -1,6 +1,10 @@
-<img align="left" height="150" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif"  />
+<div align="center">
+  <img height="150" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif"  />
+</div>
 
 ###
+
+<br clear="both">
 
 <h1 align="center">👋 Olá! Eu sou o Gabriel Menezes</h1>
 
