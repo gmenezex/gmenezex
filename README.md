@@ -59,11 +59,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
 </div>
 
-###
-
-<h3 align="left">📊 Estatísticas:</h3>
-
 
 ###
 
-<h4 align="center">💡 “Sempre aprendendo, sempre evoluindo.”</h4>
+<h3 align="center">💡 “Sempre aprendendo, sempre evoluindo.”</h3>
